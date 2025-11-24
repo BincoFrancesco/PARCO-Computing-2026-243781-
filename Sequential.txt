@@ -1,0 +1,59 @@
+Duration: 4.174e-05
+Duration: 0.0012518
+Duration: 0.000516967
+Duration: 0.000573148
+Duration: 0.0898262
+
+Duration: 9.4097e-05
+Duration: 0.00265356
+Duration: 0.0013149
+Duration: 0.00136696
+Duration: 0.090988
+
+Duration: 9.5108e-05
+Duration: 0.00261726
+Duration: 0.00130746
+Duration: 0.00136762
+Duration: 0.0806378
+
+Duration: 4.0831e-05
+Duration: 0.00113478
+Duration: 0.000560235
+Duration: 0.000589334
+Duration: 0.0763699
+
+Duration: 9.5359e-05
+Duration: 0.00122991
+Duration: 0.000553522
+Duration: 0.000559205
+Duration: 0.0761838
+
+Duration: 9.2501e-05
+Duration: 0.000991031
+Duration: 0.000393146
+Duration: 0.000391823
+Duration: 0.0793133
+
+Duration: 9.3613e-05
+Duration: 0.00141047
+Duration: 0.000739103
+Duration: 0.00080552
+Duration: 0.076936
+
+Duration: 0.000104165
+Duration: 0.0011849
+Duration: 0.000376689
+Duration: 0.000387702
+Duration: 0.0758504
+
+Duration: 9.7421e-05
+Duration: 0.00174003
+Duration: 0.000531686
+Duration: 0.000548998
+Duration: 0.0760421
+
+Duration: 0.000101557
+Duration: 0.00144085
+Duration: 0.000447442
+Duration: 0.000401214
+Duration: 0.0764912

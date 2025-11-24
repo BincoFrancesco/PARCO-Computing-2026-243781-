@@ -1,0 +1,1097 @@
+GUIDED_2T_1C
+Duration: 3.6086e-05
+Duration: 0.00085517
+Duration: 0.000411785
+Duration: 0.000435173
+Duration: 0.0919699
+
+Duration: 9.4456e-05
+Duration: 0.000889195
+Duration: 0.000405641
+Duration: 0.000402105
+Duration: 0.0879259
+
+Duration: 9.5729e-05
+Duration: 0.00137842
+Duration: 0.000386532
+Duration: 0.000407541
+Duration: 0.0787627
+
+Duration: 2.9754e-05
+Duration: 0.000827253
+Duration: 0.000405717
+Duration: 0.000414741
+Duration: 0.0763094
+
+Duration: 9.8895e-05
+Duration: 0.000905082
+Duration: 0.000416975
+Duration: 0.000410091
+Duration: 0.0764528
+
+Duration: 9.2463e-05
+Duration: 0.000971696
+Duration: 0.000400094
+Duration: 0.000426184
+Duration: 0.0837753
+
+Duration: 9.2297e-05
+Duration: 0.00150281
+Duration: 0.000401544
+Duration: 0.000448838
+Duration: 0.0781205
+
+Duration: 9.236e-05
+Duration: 0.00118119
+Duration: 0.000380137
+Duration: 0.000402829
+Duration: 0.0766767
+
+Duration: 9.9327e-05
+Duration: 0.0010229
+Duration: 0.000393507
+Duration: 0.000394872
+Duration: 0.0763824
+
+Duration: 9.1757e-05
+Duration: 0.000891685
+Duration: 0.000444118
+Duration: 0.00040122
+Duration: 0.0772409
+
+GUIDED_2T_8C
+Duration: 3.5619e-05
+Duration: 0.000855117
+Duration: 0.000413163
+Duration: 0.00043219
+Duration: 0.0902404
+
+Duration: 0.000106614
+Duration: 0.00150581
+Duration: 0.000408999
+Duration: 0.000425095
+Duration: 0.0912392
+
+Duration: 9.5294e-05
+Duration: 0.00110016
+Duration: 0.000389574
+Duration: 0.000399114
+Duration: 0.0784095
+
+Duration: 3.016e-05
+Duration: 0.000848472
+Duration: 0.000408449
+Duration: 0.000433961
+Duration: 0.0781185
+
+Duration: 9.7756e-05
+Duration: 0.00154315
+Duration: 0.000426148
+Duration: 0.000445925
+Duration: 0.0800121
+
+Duration: 9.2575e-05
+Duration: 0.000991069
+Duration: 0.000414552
+Duration: 0.000437006
+Duration: 0.0842684
+
+Duration: 9.3099e-05
+Duration: 0.00157872
+Duration: 0.000401984
+Duration: 0.000451525
+Duration: 0.0775077
+
+Duration: 9.1223e-05
+Duration: 0.00117383
+Duration: 0.000405778
+Duration: 0.000416321
+Duration: 0.0800663
+
+Duration: 9.8174e-05
+Duration: 0.00118753
+Duration: 0.000381259
+Duration: 0.00039566
+Duration: 0.0764963
+
+Duration: 9.2494e-05
+Duration: 0.00162884
+Duration: 0.000460903
+Duration: 0.00043112
+Duration: 0.0804846
+
+GUIDED_2T_64C
+Duration: 3.4375e-05
+Duration: 0.000860477
+Duration: 0.000402807
+Duration: 0.000431588
+Duration: 0.089728
+
+Duration: 9.7426e-05
+Duration: 0.00114407
+Duration: 0.000399318
+Duration: 0.000432716
+Duration: 0.0923943
+
+Duration: 0.000103257
+Duration: 0.000857592
+Duration: 0.000418243
+Duration: 0.000419812
+Duration: 0.0823165
+
+Duration: 9.2391e-05
+Duration: 0.000873202
+Duration: 0.000400779
+Duration: 0.00041201
+Duration: 0.0765507
+
+Duration: 9.7905e-05
+Duration: 0.000872414
+Duration: 0.000415662
+Duration: 0.000408862
+Duration: 0.0760619
+
+Duration: 9.3159e-05
+Duration: 0.000848651
+Duration: 0.000407934
+Duration: 0.000423089
+Duration: 0.0805186
+
+Duration: 9.34e-05
+Duration: 0.00107378
+Duration: 0.000408743
+Duration: 0.000446136
+Duration: 0.0765863
+
+Duration: 2.9695e-05
+Duration: 0.000842476
+Duration: 0.000399807
+Duration: 0.000401838
+Duration: 0.0764007
+
+Duration: 9.917e-05
+Duration: 0.00118578
+Duration: 0.00037789
+Duration: 0.000395009
+Duration: 0.0759556
+
+Duration: 9.1318e-05
+Duration: 0.000999454
+Duration: 0.000448536
+Duration: 0.000426147
+Duration: 0.0805006
+
+GUIDED_4T_1C
+Duration: 3.5237e-05
+Duration: 0.000860006
+Duration: 0.000403977
+Duration: 0.000435813
+Duration: 0.0905156
+
+Duration: 9.4617e-05
+Duration: 0.00141919
+Duration: 0.000412945
+Duration: 0.000425086
+Duration: 0.0915096
+
+Duration: 9.5542e-05
+Duration: 0.000869315
+Duration: 0.000406053
+Duration: 0.000424067
+Duration: 0.0819545
+
+Duration: 9.2893e-05
+Duration: 0.0010739
+Duration: 0.000381632
+Duration: 0.000414708
+Duration: 0.0765576
+
+Duration: 9.6868e-05
+Duration: 0.000952512
+Duration: 0.000418673
+Duration: 0.000434838
+Duration: 0.0775747
+
+Duration: 9.2676e-05
+Duration: 0.00151495
+Duration: 0.000383965
+Duration: 0.000401809
+Duration: 0.0802203
+
+Duration: 0.000101398
+Duration: 0.000971221
+Duration: 0.000405722
+Duration: 0.000446734
+Duration: 0.0764737
+
+Duration: 3.0762e-05
+Duration: 0.000879221
+Duration: 0.000401951
+Duration: 0.000402755
+Duration: 0.0763314
+
+Duration: 9.2138e-05
+Duration: 0.000820953
+Duration: 0.00040053
+Duration: 0.000422805
+Duration: 0.0761045
+
+Duration: 9.3199e-05
+Duration: 0.000992696
+Duration: 0.000440419
+Duration: 0.000399106
+Duration: 0.0768212
+
+GUIDED_4T_8C
+Duration: 3.5848e-05
+Duration: 0.000862242
+Duration: 0.000403386
+Duration: 0.000439953
+Duration: 0.0910696
+
+Duration: 9.5996e-05
+Duration: 0.00153
+Duration: 0.00040387
+Duration: 0.000431888
+Duration: 0.0918226
+
+Duration: 5.1004e-05
+Duration: 0.000831821
+Duration: 0.00043467
+Duration: 0.000420559
+Duration: 0.0788221
+
+Duration: 3.0919e-05
+Duration: 0.00081925
+Duration: 0.000411563
+Duration: 0.000414191
+Duration: 0.0763084
+
+Duration: 9.5914e-05
+Duration: 0.00089985
+Duration: 0.000424764
+Duration: 0.000447111
+Duration: 0.0797537
+
+Duration: 9.4238e-05
+Duration: 0.000990103
+Duration: 0.000430171
+Duration: 0.000422144
+Duration: 0.0805058
+
+Duration: 9.3592e-05
+Duration: 0.00101556
+Duration: 0.000399939
+Duration: 0.000484153
+Duration: 0.0801676
+
+Duration: 9.2102e-05
+Duration: 0.00136954
+Duration: 0.000379609
+Duration: 0.000399038
+Duration: 0.0760387
+
+Duration: 9.8785e-05
+Duration: 0.000850329
+Duration: 0.000410077
+Duration: 0.000416697
+Duration: 0.079833
+
+Duration: 9.3781e-05
+Duration: 0.00147704
+Duration: 0.000482965
+Duration: 0.000429579
+Duration: 0.0814989
+
+GUIDED_4T_64C
+Duration: 3.4253e-05
+Duration: 0.000843584
+Duration: 0.000408203
+Duration: 0.000428011
+Duration: 0.091111
+
+Duration: 9.6115e-05
+Duration: 0.000953946
+Duration: 0.000405357
+Duration: 0.000428959
+Duration: 0.0909542
+
+Duration: 0.000108298
+Duration: 0.00131388
+Duration: 0.000409036
+Duration: 0.000426025
+Duration: 0.0821662
+
+Duration: 9.3305e-05
+Duration: 0.00116924
+Duration: 0.000390636
+Duration: 0.000416279
+Duration: 0.0761748
+
+Duration: 9.5791e-05
+Duration: 0.00156705
+Duration: 0.000402831
+Duration: 0.00040715
+Duration: 0.0761259
+
+Duration: 9.2024e-05
+Duration: 0.00138886
+Duration: 0.000400885
+Duration: 0.000423922
+Duration: 0.0836103
+
+Duration: 9.2297e-05
+Duration: 0.00107913
+Duration: 0.000378676
+Duration: 0.000465837
+Duration: 0.0765752
+
+Duration: 2.9474e-05
+Duration: 0.000838939
+Duration: 0.00040447
+Duration: 0.000396845
+Duration: 0.0762856
+
+Duration: 9.7209e-05
+Duration: 0.0015791
+Duration: 0.000411724
+Duration: 0.000445066
+Duration: 0.0799137
+
+Duration: 9.2742e-05
+Duration: 0.00100366
+Duration: 0.000456481
+Duration: 0.000436391
+Duration: 0.0801346
+
+GUIDED_8T_1C
+Duration: 3.6017e-05
+Duration: 0.000868188
+Duration: 0.000403855
+Duration: 0.000430971
+Duration: 0.0900178
+
+Duration: 0.000104271
+Duration: 0.000960968
+Duration: 0.000404072
+Duration: 0.000403458
+Duration: 0.0872265
+
+Duration: 3.1581e-05
+Duration: 0.000827484
+Duration: 0.000405034
+Duration: 0.000421571
+Duration: 0.0818762
+
+Duration: 9.373e-05
+Duration: 0.000856351
+Duration: 0.000391459
+Duration: 0.000416237
+Duration: 0.0765102
+
+Duration: 3.3229e-05
+Duration: 0.000833516
+Duration: 0.000428701
+Duration: 0.000405256
+Duration: 0.0759136
+
+Duration: 9.1561e-05
+Duration: 0.000855259
+Duration: 0.000393433
+Duration: 0.00039824
+Duration: 0.0808044
+
+Duration: 9.4091e-05
+Duration: 0.0010984
+Duration: 0.00040415
+Duration: 0.000451432
+Duration: 0.0800266
+
+Duration: 9.3273e-05
+Duration: 0.000889958
+Duration: 0.000395887
+Duration: 0.000397372
+Duration: 0.07555
+
+Duration: 0.000107669
+Duration: 0.000885776
+Duration: 0.000400644
+Duration: 0.000393974
+Duration: 0.0764567
+
+Duration: 9.2189e-05
+Duration: 0.00144177
+Duration: 0.000452372
+Duration: 0.000421554
+Duration: 0.0797218
+
+GUIDED_8T_8C
+Duration: 3.4574e-05
+Duration: 0.000855463
+Duration: 0.000408642
+Duration: 0.000430517
+Duration: 0.0891804
+
+Duration: 0.000106764
+Duration: 0.00141752
+Duration: 0.000383267
+Duration: 0.000407905
+Duration: 0.0869582
+
+Duration: 9.5392e-05
+Duration: 0.00133951
+Duration: 0.000407938
+Duration: 0.000419518
+Duration: 0.0789147
+
+Duration: 9.2802e-05
+Duration: 0.00141673
+Duration: 0.000400073
+Duration: 0.000432645
+Duration: 0.0776511
+
+Duration: 9.8018e-05
+Duration: 0.000860628
+Duration: 0.000410826
+Duration: 0.000401817
+Duration: 0.0768283
+
+Duration: 0.000105048
+Duration: 0.00111645
+Duration: 0.000390367
+Duration: 0.000399794
+Duration: 0.0810693
+
+Duration: 2.9795e-05
+Duration: 0.000823607
+Duration: 0.000400756
+Duration: 0.000441829
+Duration: 0.0768788
+
+Duration: 9.3113e-05
+Duration: 0.000888874
+Duration: 0.000393819
+Duration: 0.000393369
+Duration: 0.0768264
+
+Duration: 9.7872e-05
+Duration: 0.00128737
+Duration: 0.000387584
+Duration: 0.000394638
+Duration: 0.0763982
+
+Duration: 9.3322e-05
+Duration: 0.0015467
+Duration: 0.000429303
+Duration: 0.000401532
+Duration: 0.076874
+
+GUIDED_8T_64C
+Duration: 3.6231e-05
+Duration: 0.000864856
+Duration: 0.000401838
+Duration: 0.000438116
+Duration: 0.0900402
+
+Duration: 9.4607e-05
+Duration: 0.00111207
+Duration: 0.000404102
+Duration: 0.000428832
+Duration: 0.0884185
+
+Duration: 9.7806e-05
+Duration: 0.00124706
+Duration: 0.000418874
+Duration: 0.000417518
+Duration: 0.0784314
+
+Duration: 9.4602e-05
+Duration: 0.00102725
+Duration: 0.000406112
+Duration: 0.000431345
+Duration: 0.076579
+
+Duration: 9.6965e-05
+Duration: 0.00092668
+Duration: 0.000410107
+Duration: 0.00041753
+Duration: 0.0761737
+
+Duration: 9.2561e-05
+Duration: 0.00107453
+Duration: 0.000381507
+Duration: 0.000407469
+Duration: 0.0800685
+
+Duration: 9.3784e-05
+Duration: 0.00111992
+Duration: 0.000401028
+Duration: 0.000456768
+Duration: 0.0799739
+
+Duration: 7.1618e-05
+Duration: 0.000833965
+Duration: 0.000412335
+Duration: 0.000395445
+Duration: 0.0765032
+
+Duration: 6.3179e-05
+Duration: 0.000814725
+Duration: 0.000407
+Duration: 0.000416357
+Duration: 0.0798557
+
+Duration: 2.8894e-05
+Duration: 0.000837879
+Duration: 0.000444996
+Duration: 0.000399556
+Duration: 0.0767412
+
+GUIDED_16T_1C
+Duration: 4.1265e-05
+Duration: 0.00128131
+Duration: 0.000510459
+Duration: 0.000582444
+Duration: 0.0915289
+
+Duration: 9.4804e-05
+Duration: 0.000956913
+Duration: 0.000371707
+Duration: 0.000395418
+Duration: 0.0877477
+
+Duration: 9.6159e-05
+Duration: 0.000843585
+Duration: 0.000390008
+Duration: 0.000404838
+Duration: 0.078862
+
+Duration: 9.1414e-05
+Duration: 0.00129021
+Duration: 0.000384869
+Duration: 0.000414273
+Duration: 0.0754595
+
+Duration: 9.6503e-05
+Duration: 0.00105867
+Duration: 0.000401965
+Duration: 0.00040445
+Duration: 0.0771651
+
+Duration: 9.2804e-05
+Duration: 0.00149346
+Duration: 0.000419977
+Duration: 0.000419671
+Duration: 0.0804282
+
+Duration: 9.2594e-05
+Duration: 0.00148547
+Duration: 0.000384581
+Duration: 0.000423846
+Duration: 0.0768906
+
+Duration: 9.1811e-05
+Duration: 0.0013723
+Duration: 0.00038204
+Duration: 0.000402925
+Duration: 0.0758454
+
+Duration: 9.9737e-05
+Duration: 0.00108541
+Duration: 0.000386203
+Duration: 0.00040022
+Duration: 0.0761927
+
+Duration: 9.283e-05
+Duration: 0.000877727
+Duration: 0.000433259
+Duration: 0.000403465
+Duration: 0.076793
+
+GUIDED_16T_8C
+Duration: 3.6456e-05
+Duration: 0.000856204
+Duration: 0.000404101
+Duration: 0.000434378
+Duration: 0.0904739
+
+Duration: 9.4903e-05
+Duration: 0.00101566
+Duration: 0.000386147
+Duration: 0.000403807
+Duration: 0.0869843
+
+Duration: 0.000108798
+Duration: 0.000807703
+Duration: 0.000394436
+Duration: 0.000399154
+Duration: 0.0776652
+
+Duration: 0.000103351
+Duration: 0.000950105
+Duration: 0.000382544
+Duration: 0.000409392
+Duration: 0.0760846
+
+Duration: 9.6444e-05
+Duration: 0.000906405
+Duration: 0.00039308
+Duration: 0.0004067
+Duration: 0.0764431
+
+Duration: 9.2868e-05
+Duration: 0.000968712
+Duration: 0.00038094
+Duration: 0.000409333
+Duration: 0.0802076
+
+Duration: 9.2324e-05
+Duration: 0.00142717
+Duration: 0.000387407
+Duration: 0.000424758
+Duration: 0.0763842
+
+Duration: 9.2268e-05
+Duration: 0.00110005
+Duration: 0.000385383
+Duration: 0.00039454
+Duration: 0.0759161
+
+Duration: 9.9301e-05
+Duration: 0.00105734
+Duration: 0.000378773
+Duration: 0.00039547
+Duration: 0.076291
+
+Duration: 9.4116e-05
+Duration: 0.000858933
+Duration: 0.000430044
+Duration: 0.000401525
+Duration: 0.0765555
+
+GUIDED_16T_64C
+Duration: 3.4273e-05
+Duration: 0.000857831
+Duration: 0.000405516
+Duration: 0.000433969
+Duration: 0.090186
+
+Duration: 0.000106187
+Duration: 0.00119159
+Duration: 0.000384717
+Duration: 0.000401581
+Duration: 0.0867526
+
+Duration: 3.0041e-05
+Duration: 0.000786838
+Duration: 0.000388146
+Duration: 0.000396938
+Duration: 0.0780715
+
+Duration: 9.3318e-05
+Duration: 0.00120434
+Duration: 0.00038397
+Duration: 0.000408487
+Duration: 0.0752484
+
+Duration: 9.5464e-05
+Duration: 0.000915833
+Duration: 0.000394633
+Duration: 0.000407105
+Duration: 0.0758767
+
+Duration: 9.2804e-05
+Duration: 0.00117577
+Duration: 0.000380108
+Duration: 0.000398765
+Duration: 0.080736
+
+Duration: 9.4882e-05
+Duration: 0.00104216
+Duration: 0.000383163
+Duration: 0.000434331
+Duration: 0.0761969
+
+Duration: 9.3729e-05
+Duration: 0.00104459
+Duration: 0.000382779
+Duration: 0.000394811
+Duration: 0.0760869
+
+Duration: 9.9804e-05
+Duration: 0.00103558
+Duration: 0.000385902
+Duration: 0.00039477
+Duration: 0.0756205
+
+Duration: 9.3027e-05
+Duration: 0.00141322
+Duration: 0.000432993
+Duration: 0.000400764
+Duration: 0.0757025
+
+GUIDED_32T_1C
+Duration: 3.5269e-05
+Duration: 0.000860856
+Duration: 0.000404819
+Duration: 0.000437179
+Duration: 0.0901379
+
+Duration: 9.6022e-05
+Duration: 0.00106174
+Duration: 0.000380623
+Duration: 0.000407269
+Duration: 0.0867935
+
+Duration: 0.000105919
+Duration: 0.00137887
+Duration: 0.000387846
+Duration: 0.000401314
+Duration: 0.0781614
+
+Duration: 5.7973e-05
+Duration: 0.000786065
+Duration: 0.000406838
+Duration: 0.000434126
+Duration: 0.0761625
+
+Duration: 8.941e-05
+Duration: 0.000843395
+Duration: 0.000392787
+Duration: 0.000409428
+Duration: 0.0753482
+
+Duration: 9.2792e-05
+Duration: 0.00105672
+Duration: 0.000384723
+Duration: 0.000405141
+Duration: 0.0799224
+
+Duration: 9.2244e-05
+Duration: 0.000981241
+Duration: 0.00038227
+Duration: 0.000432704
+Duration: 0.0761102
+
+Duration: 9.3748e-05
+Duration: 0.00105069
+Duration: 0.000382321
+Duration: 0.000399274
+Duration: 0.075669
+
+Duration: 9.8546e-05
+Duration: 0.000810983
+Duration: 0.000379962
+Duration: 0.000396362
+Duration: 0.0761889
+
+Duration: 9.3234e-05
+Duration: 0.000823135
+Duration: 0.000431416
+Duration: 0.000397406
+Duration: 0.0759086
+
+GUIDED_32T_8C
+Duration: 3.5379e-05
+Duration: 0.000856475
+Duration: 0.000404673
+Duration: 0.000436576
+Duration: 0.0899159
+
+Duration: 9.648e-05
+Duration: 0.0010816
+Duration: 0.000382572
+Duration: 0.000402604
+Duration: 0.086762
+
+Duration: 9.7027e-05
+Duration: 0.000975598
+Duration: 0.000387079
+Duration: 0.00040422
+Duration: 0.0784378
+
+Duration: 9.3465e-05
+Duration: 0.000910018
+Duration: 0.000385313
+Duration: 0.000411266
+Duration: 0.0759834
+
+Duration: 0.00010812
+Duration: 0.000853791
+Duration: 0.000398493
+Duration: 0.000404843
+Duration: 0.0762702
+
+Duration: 9.168e-05
+Duration: 0.00101967
+Duration: 0.000386219
+Duration: 0.00039982
+Duration: 0.079976
+
+Duration: 9.2909e-05
+Duration: 0.00119158
+Duration: 0.000379642
+Duration: 0.000429321
+Duration: 0.0762169
+
+Duration: 9.2954e-05
+Duration: 0.00102697
+Duration: 0.000378569
+Duration: 0.000430111
+Duration: 0.07591
+
+Duration: 9.874e-05
+Duration: 0.00100536
+Duration: 0.000378516
+Duration: 0.000400694
+Duration: 0.0761281
+
+Duration: 0.000134998
+Duration: 0.00152476
+Duration: 0.000433552
+Duration: 0.000400224
+Duration: 0.0769214
+
+GUIDED_32T_64C
+Duration: 3.4167e-05
+Duration: 0.000856446
+Duration: 0.000402375
+Duration: 0.000434426
+Duration: 0.0900757
+
+Duration: 9.4961e-05
+Duration: 0.000850354
+Duration: 0.000391109
+Duration: 0.000401228
+Duration: 0.0874938
+
+Duration: 0.000108392
+Duration: 0.00086091
+Duration: 0.000389945
+Duration: 0.000397544
+Duration: 0.078185
+
+Duration: 9.108e-05
+Duration: 0.00130084
+Duration: 0.000379862
+Duration: 0.000415191
+Duration: 0.0757109
+
+Duration: 0.000109797
+Duration: 0.000792504
+Duration: 0.000403955
+Duration: 0.000409144
+Duration: 0.0762747
+
+Duration: 2.8939e-05
+Duration: 0.000778867
+Duration: 0.000390856
+Duration: 0.000399647
+Duration: 0.0796681
+
+Duration: 9.2528e-05
+Duration: 0.00108243
+Duration: 0.000381362
+Duration: 0.000429877
+Duration: 0.0760522
+
+Duration: 9.2726e-05
+Duration: 0.00129641
+Duration: 0.000379238
+Duration: 0.00039292
+Duration: 0.0761218
+
+Duration: 9.995e-05
+Duration: 0.000914493
+Duration: 0.000377693
+Duration: 0.000395845
+Duration: 0.0757321
+
+Duration: 9.2682e-05
+Duration: 0.000836188
+Duration: 0.00043072
+Duration: 0.000399107
+Duration: 0.0766659
+
+GUIDED_64T_1C
+Duration: 3.5941e-05
+Duration: 0.000862074
+Duration: 0.000403156
+Duration: 0.000434383
+Duration: 0.0904939
+
+Duration: 9.5656e-05
+Duration: 0.000996086
+Duration: 0.000383398
+Duration: 0.000403439
+Duration: 0.0880775
+
+Duration: 9.6633e-05
+Duration: 0.0014278
+Duration: 0.000390804
+Duration: 0.000403596
+Duration: 0.078322
+
+Duration: 0.000108023
+Duration: 0.000793768
+Duration: 0.000384699
+Duration: 0.000411372
+Duration: 0.0763291
+
+Duration: 9.8594e-05
+Duration: 0.00083492
+Duration: 0.000399928
+Duration: 0.000409507
+Duration: 0.0759798
+
+Duration: 9.3451e-05
+Duration: 0.000929049
+Duration: 0.000380719
+Duration: 0.000401445
+Duration: 0.0801191
+
+Duration: 9.2348e-05
+Duration: 0.00135107
+Duration: 0.000383186
+Duration: 0.000430673
+Duration: 0.0762974
+
+Duration: 9.1529e-05
+Duration: 0.00152415
+Duration: 0.000382276
+Duration: 0.000394974
+Duration: 0.0762405
+
+Duration: 9.8626e-05
+Duration: 0.00133324
+Duration: 0.000379976
+Duration: 0.000400802
+Duration: 0.0762221
+
+Duration: 9.1015e-05
+Duration: 0.00120471
+Duration: 0.000428396
+Duration: 0.000406153
+Duration: 0.0764
+
+GUIDED_64T_8C
+Duration: 3.4897e-05
+Duration: 0.000856395
+Duration: 0.000402216
+Duration: 0.000434963
+Duration: 0.0911046
+
+Duration: 9.3679e-05
+Duration: 0.0016051
+Duration: 0.000384246
+Duration: 0.000405543
+Duration: 0.0873071
+
+Duration: 7.9405e-05
+Duration: 0.000785956
+Duration: 0.000387425
+Duration: 0.000406259
+Duration: 0.0781237
+
+Duration: 9.2755e-05
+Duration: 0.00121175
+Duration: 0.000380288
+Duration: 0.00041527
+Duration: 0.0761746
+
+Duration: 3.2031e-05
+Duration: 0.00080122
+Duration: 0.000392919
+Duration: 0.000411045
+Duration: 0.0766949
+
+Duration: 0.000100219
+Duration: 0.0008657
+Duration: 0.000387839
+Duration: 0.000399649
+Duration: 0.080241
+
+Duration: 9.4503e-05
+Duration: 0.000823532
+Duration: 0.000383223
+Duration: 0.000428683
+Duration: 0.075927
+
+Duration: 9.3343e-05
+Duration: 0.000868493
+Duration: 0.000380074
+Duration: 0.000400789
+Duration: 0.0761525
+
+Duration: 0.000100714
+Duration: 0.000955671
+Duration: 0.000386016
+Duration: 0.000398049
+Duration: 0.0756991
+
+Duration: 9.3274e-05
+Duration: 0.00117272
+Duration: 0.00042954
+Duration: 0.000396051
+Duration: 0.0772193
+
+GUIDED_64T_64C
+Duration: 3.5103e-05
+Duration: 0.000861231
+Duration: 0.000402415
+Duration: 0.000434083
+Duration: 0.0894063
+
+Duration: 9.5264e-05
+Duration: 0.00121748
+Duration: 0.000389849
+Duration: 0.000401304
+Duration: 0.0875112
+
+Duration: 9.6671e-05
+Duration: 0.00106922
+Duration: 0.00038651
+Duration: 0.000405365
+Duration: 0.0782962
+
+Duration: 9.2494e-05
+Duration: 0.00112497
+Duration: 0.0003836
+Duration: 0.000417283
+Duration: 0.0762181
+
+Duration: 9.7452e-05
+Duration: 0.00109601
+Duration: 0.00039868
+Duration: 0.000415323
+Duration: 0.0757562
+
+Duration: 9.246e-05
+Duration: 0.00104492
+Duration: 0.000382729
+Duration: 0.000399119
+Duration: 0.07997
+
+Duration: 9.2482e-05
+Duration: 0.000815246
+Duration: 0.000394641
+Duration: 0.000427964
+Duration: 0.0757351
+
+Duration: 9.3552e-05
+Duration: 0.0010217
+Duration: 0.000389472
+Duration: 0.000393547
+Duration: 0.0765009
+
+Duration: 9.9085e-05
+Duration: 0.000853461
+Duration: 0.000385033
+Duration: 0.00039704
+Duration: 0.0763316
+
+Duration: 9.204e-05
+Duration: 0.00126353
+Duration: 0.000427557
+Duration: 0.000405648
+Duration: 0.0763389

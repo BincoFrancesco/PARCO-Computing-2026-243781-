@@ -1,0 +1,1097 @@
+DYNAMIC_2T_1C
+Duration: 3.5047e-05
+Duration: 0.000859147
+Duration: 0.000404566
+Duration: 0.000434121
+Duration: 0.0902548
+
+Duration: 9.4903e-05
+Duration: 0.0014632
+Duration: 0.00038637
+Duration: 0.000401348
+Duration: 0.0870541
+
+Duration: 9.7642e-05
+Duration: 0.00103503
+Duration: 0.00038374
+Duration: 0.000401075
+Duration: 0.0787166
+
+Duration: 2.7612e-05
+Duration: 0.000799413
+Duration: 0.000401003
+Duration: 0.000432716
+Duration: 0.0759302
+
+Duration: 9.6419e-05
+Duration: 0.00109377
+Duration: 0.00039161
+Duration: 0.000412664
+Duration: 0.0762744
+
+Duration: 9.4323e-05
+Duration: 0.000985487
+Duration: 0.000387989
+Duration: 0.000398558
+Duration: 0.0801471
+
+Duration: 9.321e-05
+Duration: 0.00111357
+Duration: 0.000385001
+Duration: 0.000423081
+Duration: 0.0762795
+
+Duration: 9.2987e-05
+Duration: 0.000954945
+Duration: 0.000398431
+Duration: 0.000419709
+Duration: 0.0767082
+
+Duration: 9.9073e-05
+Duration: 0.00105741
+Duration: 0.0004027
+Duration: 0.000428205
+Duration: 0.0758167
+
+Duration: 2.8542e-05
+Duration: 0.000819974
+Duration: 0.000447451
+Duration: 0.000419203
+Duration: 0.0767124
+
+DYNAMIC_2T_8C
+Duration: 3.5048e-05
+Duration: 0.000859462
+Duration: 0.000402829
+Duration: 0.000436878
+Duration: 0.09015
+
+Duration: 9.6886e-05
+Duration: 0.00115854
+Duration: 0.000385746
+Duration: 0.000401439
+Duration: 0.0875691
+
+Duration: 0.000104514
+Duration: 0.00130928
+Duration: 0.000384865
+Duration: 0.000404113
+Duration: 0.0785003
+
+Duration: 9.3845e-05
+Duration: 0.00091019
+Duration: 0.000380925
+Duration: 0.000417647
+Duration: 0.0763663
+
+Duration: 9.5455e-05
+Duration: 0.000957341
+Duration: 0.000399519
+Duration: 0.000409692
+Duration: 0.076031
+
+Duration: 9.3037e-05
+Duration: 0.00112875
+Duration: 0.00038096
+Duration: 0.000403867
+Duration: 0.0801086
+
+Duration: 9.4897e-05
+Duration: 0.00093409
+Duration: 0.000384954
+Duration: 0.000422612
+Duration: 0.07582
+
+Duration: 9.1609e-05
+Duration: 0.000921432
+Duration: 0.000376356
+Duration: 0.000392968
+Duration: 0.0768448
+
+Duration: 9.9859e-05
+Duration: 0.000972006
+Duration: 0.000381243
+Duration: 0.000397485
+Duration: 0.0759143
+
+Duration: 9.3113e-05
+Duration: 0.00131116
+Duration: 0.000423439
+Duration: 0.000401514
+Duration: 0.076824
+
+DYNAMIC_2T_64C
+Duration: 3.4239e-05
+Duration: 0.00085984
+Duration: 0.000407571
+Duration: 0.0004342
+Duration: 0.0901895
+
+Duration: 9.6146e-05
+Duration: 0.00108769
+Duration: 0.000381819
+Duration: 0.000406443
+Duration: 0.0882644
+
+Duration: 9.5792e-05
+Duration: 0.00166836
+Duration: 0.000390722
+Duration: 0.000401134
+Duration: 0.0784091
+
+Duration: 9.2458e-05
+Duration: 0.00132449
+Duration: 0.000386625
+Duration: 0.000415732
+Duration: 0.0763042
+
+Duration: 8.7991e-05
+Duration: 0.00108426
+Duration: 0.0003967
+Duration: 0.000413806
+Duration: 0.0758041
+
+Duration: 9.448e-05
+Duration: 0.00102896
+Duration: 0.000381139
+Duration: 0.000398456
+Duration: 0.0801629
+
+Duration: 9.3199e-05
+Duration: 0.00139576
+Duration: 0.000380312
+Duration: 0.000426158
+Duration: 0.0764156
+
+Duration: 9.3113e-05
+Duration: 0.00121642
+Duration: 0.000384901
+Duration: 0.000396088
+Duration: 0.0763938
+
+Duration: 9.826e-05
+Duration: 0.00101783
+Duration: 0.000386914
+Duration: 0.00039397
+Duration: 0.0763742
+
+Duration: 9.3428e-05
+Duration: 0.00141764
+Duration: 0.000426818
+Duration: 0.000398309
+Duration: 0.0765031
+
+DYNAMIC_4T_1C
+Duration: 3.5904e-05
+Duration: 0.000857447
+Duration: 0.000407755
+Duration: 0.000432074
+Duration: 0.09015
+
+Duration: 9.6109e-05
+Duration: 0.00104381
+Duration: 0.000382329
+Duration: 0.00040735
+Duration: 0.086725
+
+Duration: 9.7661e-05
+Duration: 0.00113293
+Duration: 0.000384034
+Duration: 0.000396754
+Duration: 0.0782175
+
+Duration: 9.344e-05
+Duration: 0.000861775
+Duration: 0.000378402
+Duration: 0.000411789
+Duration: 0.0761185
+
+Duration: 9.7467e-05
+Duration: 0.000822415
+Duration: 0.000396142
+Duration: 0.000413907
+Duration: 0.076164
+
+Duration: 9.3139e-05
+Duration: 0.000962128
+Duration: 0.000379432
+Duration: 0.000403301
+Duration: 0.0801559
+
+Duration: 9.2735e-05
+Duration: 0.00147805
+Duration: 0.000383542
+Duration: 0.000431424
+Duration: 0.0759223
+
+Duration: 9.5277e-05
+Duration: 0.00142015
+Duration: 0.000384419
+Duration: 0.000396345
+Duration: 0.0760415
+
+Duration: 9.9444e-05
+Duration: 0.00104354
+Duration: 0.000379352
+Duration: 0.000393588
+Duration: 0.0764891
+
+Duration: 9.2712e-05
+Duration: 0.0010425
+Duration: 0.000424174
+Duration: 0.000407243
+Duration: 0.0774636
+
+DYNAMIC_4T_8C
+Duration: 3.5623e-05
+Duration: 0.000853495
+Duration: 0.000401827
+Duration: 0.000431429
+Duration: 0.0895417
+
+Duration: 2.8599e-05
+Duration: 0.000832078
+Duration: 0.000382909
+Duration: 0.000401063
+Duration: 0.086877
+
+Duration: 9.5851e-05
+Duration: 0.0010643
+Duration: 0.000387508
+Duration: 0.00039705
+Duration: 0.0786939
+
+Duration: 9.2559e-05
+Duration: 0.00115762
+Duration: 0.000383169
+Duration: 0.000410214
+Duration: 0.0763197
+
+Duration: 9.7607e-05
+Duration: 0.0010656
+Duration: 0.000395644
+Duration: 0.000412536
+Duration: 0.0761906
+
+Duration: 2.8637e-05
+Duration: 0.000778644
+Duration: 0.000388547
+Duration: 0.000398979
+Duration: 0.0797512
+
+Duration: 9.282e-05
+Duration: 0.00101909
+Duration: 0.000386343
+Duration: 0.000421371
+Duration: 0.0764762
+
+Duration: 9.4386e-05
+Duration: 0.00112485
+Duration: 0.00038132
+Duration: 0.000400991
+Duration: 0.0764366
+
+Duration: 0.000100772
+Duration: 0.00145218
+Duration: 0.000377388
+Duration: 0.000394453
+Duration: 0.0763624
+
+Duration: 9.3273e-05
+Duration: 0.00147871
+Duration: 0.000426111
+Duration: 0.000402445
+Duration: 0.07666
+
+DYNAMIC_4T_64C
+Duration: 3.451e-05
+Duration: 0.00085427
+Duration: 0.000411989
+Duration: 0.000435006
+Duration: 0.0901542
+
+Duration: 9.4995e-05
+Duration: 0.000892694
+Duration: 0.000402004
+Duration: 0.000401277
+Duration: 0.0872676
+
+Duration: 9.4557e-05
+Duration: 0.000861799
+Duration: 0.000413445
+Duration: 0.000419088
+Duration: 0.0819699
+
+Duration: 9.3178e-05
+Duration: 0.000857893
+Duration: 0.000399074
+Duration: 0.000418592
+Duration: 0.0763305
+
+Duration: 9.628e-05
+Duration: 0.00112656
+Duration: 0.000417903
+Duration: 0.000436053
+Duration: 0.0795018
+
+Duration: 9.3086e-05
+Duration: 0.000887049
+Duration: 0.000394646
+Duration: 0.000405915
+Duration: 0.080022
+
+Duration: 9.2189e-05
+Duration: 0.00121236
+Duration: 0.000380734
+Duration: 0.000425989
+Duration: 0.0762389
+
+Duration: 9.1025e-05
+Duration: 0.00108314
+Duration: 0.000382862
+Duration: 0.000393577
+Duration: 0.0764508
+
+Duration: 0.00011188
+Duration: 0.000995072
+Duration: 0.000396299
+Duration: 0.000395134
+Duration: 0.0757594
+
+Duration: 9.3442e-05
+Duration: 0.000893532
+Duration: 0.000435451
+Duration: 0.000397032
+Duration: 0.0769633
+
+DYNAMIC_8T_1C
+Duration: 3.6076e-05
+Duration: 0.000857043
+Duration: 0.000405363
+Duration: 0.000435695
+Duration: 0.0901184
+
+Duration: 9.6121e-05
+Duration: 0.0013564
+Duration: 0.000383125
+Duration: 0.000399524
+Duration: 0.0868365
+
+Duration: 9.6032e-05
+Duration: 0.00106518
+Duration: 0.00038325
+Duration: 0.000402222
+Duration: 0.0786229
+
+Duration: 9.1858e-05
+Duration: 0.000871648
+Duration: 0.000398738
+Duration: 0.000430983
+Duration: 0.0804183
+
+Duration: 9.7591e-05
+Duration: 0.00125418
+Duration: 0.000394511
+Duration: 0.000414752
+Duration: 0.0762896
+
+Duration: 9.2306e-05
+Duration: 0.000969741
+Duration: 0.000399054
+Duration: 0.000399379
+Duration: 0.0801505
+
+Duration: 9.3117e-05
+Duration: 0.000999992
+Duration: 0.000402074
+Duration: 0.000421191
+Duration: 0.0764006
+
+Duration: 0.000102333
+Duration: 0.00126843
+Duration: 0.000400949
+Duration: 0.000422041
+Duration: 0.0801633
+
+Duration: 9.8427e-05
+Duration: 0.00105432
+Duration: 0.000399365
+Duration: 0.000430096
+Duration: 0.0764466
+
+Duration: 9.0465e-05
+Duration: 0.00109315
+Duration: 0.000456452
+Duration: 0.000424224
+Duration: 0.0767795
+
+DYNAMIC_8T_8C
+Duration: 3.5298e-05
+Duration: 0.000855365
+Duration: 0.000403664
+Duration: 0.000431231
+Duration: 0.0902797
+
+Duration: 9.6184e-05
+Duration: 0.00104102
+Duration: 0.000406859
+Duration: 0.000423651
+Duration: 0.0909059
+
+Duration: 9.6313e-05
+Duration: 0.0011856
+Duration: 0.000387225
+Duration: 0.000398518
+Duration: 0.0781301
+
+Duration: 9.3583e-05
+Duration: 0.00109979
+Duration: 0.000385125
+Duration: 0.000411759
+Duration: 0.0761262
+
+Duration: 9.7409e-05
+Duration: 0.00123392
+Duration: 0.000397579
+Duration: 0.000405984
+Duration: 0.0758553
+
+Duration: 2.9672e-05
+Duration: 0.00082812
+Duration: 0.000401994
+Duration: 0.000425983
+Duration: 0.0834253
+
+Duration: 9.2599e-05
+Duration: 0.000939618
+Duration: 0.000400168
+Duration: 0.000455784
+Duration: 0.079761
+
+Duration: 9.2127e-05
+Duration: 0.00101775
+Duration: 0.000392359
+Duration: 0.000394708
+Duration: 0.0764384
+
+Duration: 9.885e-05
+Duration: 0.00110704
+Duration: 0.000381387
+Duration: 0.000395947
+Duration: 0.076618
+
+Duration: 9.1636e-05
+Duration: 0.00134081
+Duration: 0.000457935
+Duration: 0.000420422
+Duration: 0.0768943
+
+DYNAMIC_8T_64C
+Duration: 3.4729e-05
+Duration: 0.000866361
+Duration: 0.000402511
+Duration: 0.000432953
+Duration: 0.0900925
+
+Duration: 9.4647e-05
+Duration: 0.00165909
+Duration: 0.000408161
+Duration: 0.000461471
+Duration: 0.091239
+
+Duration: 9.5448e-05
+Duration: 0.000883969
+Duration: 0.000402325
+Duration: 0.000401913
+Duration: 0.0779057
+
+Duration: 9.3902e-05
+Duration: 0.00133458
+Duration: 0.000379055
+Duration: 0.000415984
+Duration: 0.0767532
+
+Duration: 9.8071e-05
+Duration: 0.00125978
+Duration: 0.000421801
+Duration: 0.000430933
+Duration: 0.0800366
+
+Duration: 9.2211e-05
+Duration: 0.00108953
+Duration: 0.000407511
+Duration: 0.000419749
+Duration: 0.0842238
+
+Duration: 9.3334e-05
+Duration: 0.00144287
+Duration: 0.000405821
+Duration: 0.000434222
+Duration: 0.0762908
+
+Duration: 9.3309e-05
+Duration: 0.00141597
+Duration: 0.000390389
+Duration: 0.000395741
+Duration: 0.0769787
+
+Duration: 9.8305e-05
+Duration: 0.00114602
+Duration: 0.000378442
+Duration: 0.000400981
+Duration: 0.075832
+
+Duration: 9.2329e-05
+Duration: 0.00111976
+Duration: 0.000458123
+Duration: 0.000437694
+Duration: 0.0809264
+
+DYNAMIC_16T_1C
+Duration: 3.5656e-05
+Duration: 0.000859405
+Duration: 0.000402688
+Duration: 0.000431053
+Duration: 0.0901746
+
+Duration: 9.4267e-05
+Duration: 0.000893769
+Duration: 0.000400588
+Duration: 0.000408395
+Duration: 0.0882315
+
+Duration: 9.7047e-05
+Duration: 0.00107176
+Duration: 0.000412474
+Duration: 0.000421704
+Duration: 0.0800246
+
+Duration: 9.1608e-05
+Duration: 0.00108531
+Duration: 0.000378997
+Duration: 0.000418748
+Duration: 0.076165
+
+Duration: 9.7342e-05
+Duration: 0.00106827
+Duration: 0.000420532
+Duration: 0.000427693
+Duration: 0.0796457
+
+Duration: 9.2622e-05
+Duration: 0.00100512
+Duration: 0.000392022
+Duration: 0.000396377
+Duration: 0.07993
+
+Duration: 9.2379e-05
+Duration: 0.000883402
+Duration: 0.000402162
+Duration: 0.000428787
+Duration: 0.0768366
+
+Duration: 9.4156e-05
+Duration: 0.00122489
+Duration: 0.000402913
+Duration: 0.000451018
+Duration: 0.0802877
+
+Duration: 9.9106e-05
+Duration: 0.000981862
+Duration: 0.000423067
+Duration: 0.000430238
+Duration: 0.080142
+
+Duration: 9.3043e-05
+Duration: 0.0012199
+Duration: 0.000428037
+Duration: 0.000398835
+Duration: 0.0764629
+
+DYNAMIC_16T_8C
+Duration: 3.4965e-05
+Duration: 0.000858726
+Duration: 0.00040505
+Duration: 0.000432223
+Duration: 0.0902246
+
+Duration: 3.084e-05
+Duration: 0.000864209
+Duration: 0.000402437
+Duration: 0.000422608
+Duration: 0.0873186
+
+Duration: 9.5691e-05
+Duration: 0.00121911
+Duration: 0.000385506
+Duration: 0.000401445
+Duration: 0.0786136
+
+Duration: 0.000101733
+Duration: 0.000996495
+Duration: 0.000399842
+Duration: 0.000430516
+Duration: 0.0796517
+
+Duration: 9.653e-05
+Duration: 0.00156183
+Duration: 0.000445145
+Duration: 0.000438119
+Duration: 0.0794161
+
+Duration: 5.3587e-05
+Duration: 0.000830227
+Duration: 0.000400043
+Duration: 0.00042616
+Duration: 0.0814283
+
+Duration: 9.3002e-05
+Duration: 0.00134959
+Duration: 0.000385851
+Duration: 0.000424769
+Duration: 0.076403
+
+Duration: 0.000101795
+Duration: 0.00153225
+Duration: 0.000398797
+Duration: 0.000424599
+Duration: 0.0766736
+
+Duration: 9.8535e-05
+Duration: 0.00115758
+Duration: 0.00038805
+Duration: 0.000394837
+Duration: 0.0759649
+
+Duration: 9.2063e-05
+Duration: 0.00142174
+Duration: 0.000459344
+Duration: 0.000436857
+Duration: 0.0800651
+
+DYNAMIC_16T_64C
+Duration: 3.5677e-05
+Duration: 0.00085855
+Duration: 0.000402691
+Duration: 0.000439115
+Duration: 0.0902116
+
+Duration: 9.3862e-05
+Duration: 0.000936204
+Duration: 0.000397838
+Duration: 0.000406488
+Duration: 0.0878329
+
+Duration: 9.526e-05
+Duration: 0.00144023
+Duration: 0.000384889
+Duration: 0.000402644
+Duration: 0.0780906
+
+Duration: 9.1957e-05
+Duration: 0.000995895
+Duration: 0.000388144
+Duration: 0.000416297
+Duration: 0.0760044
+
+Duration: 9.6938e-05
+Duration: 0.00092769
+Duration: 0.000415352
+Duration: 0.000406653
+Duration: 0.0763639
+
+Duration: 4.8745e-05
+Duration: 0.00081893
+Duration: 0.000414568
+Duration: 0.000395874
+Duration: 0.0798611
+
+Duration: 9.3544e-05
+Duration: 0.000945749
+Duration: 0.000397629
+Duration: 0.000429371
+Duration: 0.0762524
+
+Duration: 9.2746e-05
+Duration: 0.00119326
+Duration: 0.000400139
+Duration: 0.000424243
+Duration: 0.0773554
+
+Duration: 0.000100209
+Duration: 0.00140085
+Duration: 0.000376745
+Duration: 0.000397437
+Duration: 0.0761621
+
+Duration: 9.2407e-05
+Duration: 0.00112205
+Duration: 0.00042854
+Duration: 0.000403293
+Duration: 0.076661
+
+DYNAMIC_32T_1C
+Duration: 3.5993e-05
+Duration: 0.000855827
+Duration: 0.000407694
+Duration: 0.000433309
+Duration: 0.0908391
+
+Duration: 9.3752e-05
+Duration: 0.000951583
+Duration: 0.000394061
+Duration: 0.000407006
+Duration: 0.0873204
+
+Duration: 9.6735e-05
+Duration: 0.00105655
+Duration: 0.000393134
+Duration: 0.000399768
+Duration: 0.0784932
+
+Duration: 9.2454e-05
+Duration: 0.00118613
+Duration: 0.000382135
+Duration: 0.000412763
+Duration: 0.076309
+
+Duration: 9.6197e-05
+Duration: 0.000867422
+Duration: 0.000414172
+Duration: 0.000409432
+Duration: 0.0762282
+
+Duration: 9.199e-05
+Duration: 0.00100615
+Duration: 0.000407043
+Duration: 0.000420781
+Duration: 0.0841076
+
+Duration: 0.000101166
+Duration: 0.000890464
+Duration: 0.000404648
+Duration: 0.000425804
+Duration: 0.0764609
+
+Duration: 9.2685e-05
+Duration: 0.000884139
+Duration: 0.000413817
+Duration: 0.000395548
+Duration: 0.0766032
+
+Duration: 0.00010008
+Duration: 0.00087122
+Duration: 0.000399808
+Duration: 0.00041732
+Duration: 0.0765773
+
+Duration: 9.1364e-05
+Duration: 0.000835718
+Duration: 0.000443193
+Duration: 0.000426085
+Duration: 0.0773142
+
+DYNAMIC_32T_8C
+Duration: 3.4535e-05
+Duration: 0.000859509
+Duration: 0.000410093
+Duration: 0.000431648
+Duration: 0.0899496
+
+Duration: 4.6249e-05
+Duration: 0.000924543
+Duration: 0.00039955
+Duration: 0.000410116
+Duration: 0.0871029
+
+Duration: 9.4158e-05
+Duration: 0.00108329
+Duration: 0.000404961
+Duration: 0.000424128
+Duration: 0.0800885
+
+Duration: 9.2146e-05
+Duration: 0.000880968
+Duration: 0.000401182
+Duration: 0.000438938
+Duration: 0.079675
+
+Duration: 9.6221e-05
+Duration: 0.00133854
+Duration: 0.000416674
+Duration: 0.000427293
+Duration: 0.0799397
+
+Duration: 9.3478e-05
+Duration: 0.00119702
+Duration: 0.000381014
+Duration: 0.000398569
+Duration: 0.080238
+
+Duration: 9.2087e-05
+Duration: 0.00111557
+Duration: 0.000406238
+Duration: 0.000446299
+Duration: 0.0796276
+
+Duration: 9.1902e-05
+Duration: 0.00106277
+Duration: 0.000375487
+Duration: 0.00039891
+Duration: 0.0767056
+
+Duration: 0.000100005
+Duration: 0.000883489
+Duration: 0.000397904
+Duration: 0.000399768
+Duration: 0.0762762
+
+Duration: 0.000104038
+Duration: 0.000972981
+Duration: 0.00044263
+Duration: 0.000398059
+Duration: 0.0763853
+
+DYNAMIC_32T_64C
+Duration: 3.4931e-05
+Duration: 0.000863725
+Duration: 0.000403548
+Duration: 0.000437892
+Duration: 0.0900057
+
+Duration: 9.5292e-05
+Duration: 0.000946026
+Duration: 0.000420163
+Duration: 0.000426737
+Duration: 0.0916478
+
+Duration: 3.1392e-05
+Duration: 0.000846907
+Duration: 0.000401294
+Duration: 0.000425983
+Duration: 0.0786633
+
+Duration: 9.3924e-05
+Duration: 0.00131497
+Duration: 0.000378552
+Duration: 0.000416694
+Duration: 0.0759846
+
+Duration: 0.00010436
+Duration: 0.00146444
+Duration: 0.000413992
+Duration: 0.000437142
+Duration: 0.0764395
+
+Duration: 9.1655e-05
+Duration: 0.00109035
+Duration: 0.000386147
+Duration: 0.000397619
+Duration: 0.0800094
+
+Duration: 0.000101529
+Duration: 0.0011347
+Duration: 0.000378644
+Duration: 0.000422747
+Duration: 0.0763659
+
+Duration: 9.4271e-05
+Duration: 0.00107851
+Duration: 0.000378641
+Duration: 0.00040123
+Duration: 0.0760574
+
+Duration: 9.8377e-05
+Duration: 0.00121381
+Duration: 0.000376841
+Duration: 0.000401525
+Duration: 0.0757693
+
+Duration: 9.2149e-05
+Duration: 0.00102511
+Duration: 0.000439196
+Duration: 0.000398596
+Duration: 0.0773688
+
+DYNAMIC_64T_1C
+Duration: 3.4794e-05
+Duration: 0.000867384
+Duration: 0.000406192
+Duration: 0.000436877
+Duration: 0.0907442
+
+Duration: 9.5872e-05
+Duration: 0.00135082
+Duration: 0.000383672
+Duration: 0.000408423
+Duration: 0.087186
+
+Duration: 9.6072e-05
+Duration: 0.00112722
+Duration: 0.000385293
+Duration: 0.000403217
+Duration: 0.0783017
+
+Duration: 4.1602e-05
+Duration: 0.000825981
+Duration: 0.000401568
+Duration: 0.000436743
+Duration: 0.0783023
+
+Duration: 9.9424e-05
+Duration: 0.000896793
+Duration: 0.000410236
+Duration: 0.00041394
+Duration: 0.0760551
+
+Duration: 9.2775e-05
+Duration: 0.00116622
+Duration: 0.000385389
+Duration: 0.000398899
+Duration: 0.0806013
+
+Duration: 9.1733e-05
+Duration: 0.00084556
+Duration: 0.000402184
+Duration: 0.000451186
+Duration: 0.0779487
+
+Duration: 9.1724e-05
+Duration: 0.000875627
+Duration: 0.000407609
+Duration: 0.000418755
+Duration: 0.0764783
+
+Duration: 9.954e-05
+Duration: 0.00138393
+Duration: 0.00038952
+Duration: 0.000396166
+Duration: 0.0762814
+
+Duration: 9.2833e-05
+Duration: 0.000879924
+Duration: 0.000446466
+Duration: 0.00042953
+Duration: 0.0768017
+
+DYNAMIC_64T_8C
+Duration: 3.3952e-05
+Duration: 0.000862598
+Duration: 0.00040245
+Duration: 0.00042963
+Duration: 0.090097
+
+Duration: 9.7283e-05
+Duration: 0.00102284
+Duration: 0.000399276
+Duration: 0.000403052
+Duration: 0.0874392
+
+Duration: 9.6747e-05
+Duration: 0.00121658
+Duration: 0.000391889
+Duration: 0.000396323
+Duration: 0.0782069
+
+Duration: 9.3149e-05
+Duration: 0.00140256
+Duration: 0.00040337
+Duration: 0.000428969
+Duration: 0.0760059
+
+Duration: 9.6828e-05
+Duration: 0.000970738
+Duration: 0.000407529
+Duration: 0.000412831
+Duration: 0.0758015
+
+Duration: 9.3484e-05
+Duration: 0.00112412
+Duration: 0.000407463
+Duration: 0.000422231
+Duration: 0.083782
+
+Duration: 9.1656e-05
+Duration: 0.00086484
+Duration: 0.000413642
+Duration: 0.000465325
+Duration: 0.0801064
+
+Duration: 4.28e-05
+Duration: 0.000839579
+Duration: 0.000400721
+Duration: 0.000415906
+Duration: 0.0800589
+
+Duration: 9.8008e-05
+Duration: 0.00154918
+Duration: 0.000410406
+Duration: 0.000433036
+Duration: 0.0792469
+
+Duration: 9.3036e-05
+Duration: 0.00105759
+Duration: 0.000422525
+Duration: 0.000409723
+Duration: 0.0769703
+
+DYNAMIC_64T_64C
+Duration: 3.5418e-05
+Duration: 0.000857299
+Duration: 0.000401579
+Duration: 0.000432592
+Duration: 0.0902069
+
+Duration: 9.5437e-05
+Duration: 0.000905616
+Duration: 0.000401686
+Duration: 0.000428889
+Duration: 0.0910844
+
+Duration: 9.6324e-05
+Duration: 0.00153401
+Duration: 0.000403192
+Duration: 0.000423915
+Duration: 0.0822323
+
+Duration: 9.2324e-05
+Duration: 0.00102785
+Duration: 0.000390126
+Duration: 0.000417502
+Duration: 0.0760524
+
+Duration: 9.7886e-05
+Duration: 0.00118805
+Duration: 0.000416205
+Duration: 0.000432353
+Duration: 0.0796608
+
+Duration: 9.3805e-05
+Duration: 0.000871052
+Duration: 0.000402537
+Duration: 0.000420155
+Duration: 0.0836364
+
+Duration: 9.4006e-05
+Duration: 0.00126279
+Duration: 0.000382714
+Duration: 0.00042713
+Duration: 0.076243
+
+Duration: 3.06e-05
+Duration: 0.000844418
+Duration: 0.000407816
+Duration: 0.000393648
+Duration: 0.0759238
+
+Duration: 9.9081e-05
+Duration: 0.000943728
+Duration: 0.000396585
+Duration: 0.000397009
+Duration: 0.0763938
+
+Duration: 2.8796e-05
+Duration: 0.000829562
+Duration: 0.000451249
+Duration: 0.00039647
+Duration: 0.0769464
