@@ -38,6 +38,24 @@ The actual files of the matrices can be found at the following link: https://dri
 - Distributed SpMV with MPI
 - Rank 0 reads the entire Matrix Market file and distributes matrix entries to all processes
 - Data Distribution: 1D modulo ( cyclic ) partitioning
-- Performance evaluation: Strong scaling and weak scaling
-- Metrics: Execution time for SpMV, speedup and efficiency, FLOPs
 
+## 5. Scaling performance
+- Strong scaling:
+    1) Fixed matrix size
+    2) Number of MPI processes increased from 1 to 256
+    3) The goal is to measure the reduction in execution time
+- Weak Scaling:
+    1) Matrix size increases proportionally to the number of processes
+    2) Constant workload per rank
+    3) The goal is to assest parallel efficiency at scale
+
+## 6. Metrics
+- Speedup = $S(P) = T(1)/T(P)$
+- Efficiency = $E(P) = S(P)/P$
+- Estimated FLOPs = $2xNonZeros$
+
+## 7. Cluster Notes
+- Module: `module load gcc91 module load mpich-3.2.1 --gcc-9.1.0`
+- Queue: short_cpuQ
+- Walltime: configurable in PBS script
+- Tested scale: from 1 to 256 MPI processes
