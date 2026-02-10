@@ -16,7 +16,7 @@ Al the experiemtns are compiled and run on the cluster using a PBS job script:
   3- executes strong scaling and weak scaling benchmarks
   4- Collects timing results
 
-## 3. Inputs and Outputs
+## 3. Input Matrices
 The inputs of the program are Sparce matrices in Matrix Market format (.mtx)
 Statistics of the matrices used in the project:
 ( Matrix_name n_Rows n_Columns n_NonZeros)
@@ -34,6 +34,9 @@ Statistics of the matrices used in the project:
 The actual files of the matrices can be found at the following link: https://drive.google.com/drive/folders/1y63WH0aZh6RebCCMP0FkVksn1fACPiCK?usp=sharing
 ( The matrices are stored in the google drive folder of my university account because they were too big to upload directly to github )
 
-
-
+## 4. Implemented Functionalities
+- Distributed SpMV with MPI
+- Rank 0 reads the entire Matrix Market file and distributes matrix entries to all processes
+- Data Distribution: 1D modulo ( cyclic ) partitioning
+- Performance evaluation: Strong scaling and weak scaling
 
