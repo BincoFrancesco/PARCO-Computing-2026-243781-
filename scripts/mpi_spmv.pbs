@@ -1,0 +1,61 @@
+#!/bin/bash
+#PBS -N SpMV
+#PBS -o ./output.out
+#PBS -e ./output.err
+#PBS -q short_cpuQ
+#PBS -l walltime=0:30:00
+#PBS -l select=1:ncpus=64:mpiprocs=64:mem=2gb
+
+
+module load gcc91
+module load mpich-3.2.1.--gcc-9.1.0
+
+
+g++(){ g++-9.1.0 "$@" }
+gcc(){ g++-9.1.0 "$@" }
+g++ --version
+
+#Go to working folder
+cd $PBS_O_WORKDIR/..
+
+
+echo "====== Compiling ======"
+
+mpicxx -O2 -std=c++11 \ src/mpi_spmv.cpp \ src/csr.cpp \ -o execute
+
+if [ $? -ne 0 ]; then
+	echo "Compilation failed"
+	exit 1
+fi
+
+chmod +x execute
+
+
+echo "====== Executing Strong Scaling ======"
+
+mpirun -np 1 ./execute strong_matrix.mtx
+mpirun -np 2 ./execute strong_matrix.mtx
+mpirun -np 4 ./execute strong_matrix.mtx
+mpirun -np 8 ./execute strong_matrix.mtx
+mpirun -np 16 ./execute strong_matrix.mtx
+mpirun -np 32 ./execute strong_matrix.mtx
+mpirun -np 64 ./execute strong_matrix.mtx
+mpirun -np 128 ./execute strong_matrix.mtx
+mpirun -np 256 ./execute strong_matrix.mtx
+
+
+echo "====== Executing Weak Scaling ======"
+
+mpirun -np 1 ./execute weak_matrix_1.mtx
+mpirun -np 2 ./execute weak_matrix_2.mtx
+mpirun -np 4 ./execute weak_matrix_3.mtx
+mpirun -np 8 ./execute weak_matrix_4.mtx
+mpirun -np 16 ./execute weak_matrix_5.mtx
+mpirun -np 32 ./execute weak_matrix_6.mtx
+mpirun -np 64 ./execute weak_matrix_7.mtx
+mpirun -np 128 ./execute weak_matrix_8.mtx
+mpirun -np 256 ./execute weak_matrix_9.mtx
+
+
+echo "====== Program completed ======"
+
