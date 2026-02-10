@@ -39,4 +39,5 @@ The actual files of the matrices can be found at the following link: https://dri
 - Rank 0 reads the entire Matrix Market file and distributes matrix entries to all processes
 - Data Distribution: 1D modulo ( cyclic ) partitioning
 - Performance evaluation: Strong scaling and weak scaling
+- Metrics: Execution time for SpMV, speedup and efficiency, FLOPs
 
