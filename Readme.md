@@ -9,3 +9,16 @@ This project follows Foster's methodology and includes strong and weak scaling e
 - Language standard: C++11
 - Compilation flags: `O2 -std=c++11`
   
+## 2. How to Compile and Run
+Al the experiemtns are compiled and run on the cluster using a PBS job script:
+  1- loads compiler and MPI modules
+  2- compiles the code
+  3- executes strong scaling and weak scaling benchmarks
+  4- Collects timing results
+
+## 3. Inputs and Outputs
+
+
+
+
+
