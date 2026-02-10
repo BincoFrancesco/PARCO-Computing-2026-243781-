@@ -17,7 +17,22 @@ Al the experiemtns are compiled and run on the cluster using a PBS job script:
   4- Collects timing results
 
 ## 3. Inputs and Outputs
+The inputs of the program are Sparce matrices in Matrix Market format (.mtx)
+Statistics of the matrices used in the project:
+( Matrix_name n_Rows n_Columns n_NonZeros)
+- strong_matrix.mtx  100k    100k    25M
+- weak_matrix_1.mtx  10k     10k     200k
+- weak_matrix_2.mtx  14k     14k     400k
+- weak_matrix_3.mtx  20k     20k     800k
+- weak_matrix_4.mtx  28k     28k     1.6M
+- weak_matrix_5.mtx  40k     40k     3.2M
+- weak_matrix_6.mtx  57k     57k     6.4M
+- weak_matrix_7.mtx  80k     80k     12.8M
+- weak_matrix_8.mtx  116k    116k    20M
+- weak_matrix_9.mtx  130k    130k    25M
 
+The actual files of the matrices can be found at the following link: https://drive.google.com/drive/folders/1y63WH0aZh6RebCCMP0FkVksn1fACPiCK?usp=sharing
+( The matrices are stored in the google drive folder of my university account because they were too big to upload directly to github )
 
 
 
