@@ -15,9 +15,6 @@ Al the experiemtns are compiled and run on the cluster using a PBS job script:
 2) compiles the code
 3) executes strong scaling and weak scaling benchmarks
 4) Collects timing results
-  2- 
-  3- 
-  4- 
 
 ## 3. Input Matrices
 The inputs of the program are Sparce matrices in Matrix Market format (.mtx)
